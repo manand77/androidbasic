@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample Mathematics (add) Application</string>
+    <string name="task">Addition</string>
+    <string name="next">Next</string>
+    <string name="resultText">Result</string>
+    <string name="assessedResult">10</string>
+    <string name="playAgain">Replay</string>
+    <string name="submit">Submit</string>
+    <string name="operand1">12334</string>
+    <string name="operand2">34534</string>
+    <string name="operand3">12312</string>
+    <string name="operand4">12334</string>
+    <string name="operand5">34534</string>
+    <string name="result">12312</string>
+    <string name="emptyResponse">Empty response provided...</string>
+</resources>
